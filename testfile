@@ -1,0 +1,4 @@
+Test
+
+with open("test.html", "r", encoding="utf-8") as file:
+    html = file.read()
